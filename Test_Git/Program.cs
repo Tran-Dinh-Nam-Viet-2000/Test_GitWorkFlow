@@ -6,6 +6,13 @@
         {
             Console.WriteLine("nam viet 2");
             Console.WriteLine("nam viet 3");
+            Console.WriteLine("nam viet");
+            Console.WriteLine("nam viet");
+            Console.WriteLine("nam viet");
+            Console.WriteLine("nam viet");
+            Console.WriteLine("nam viet");
+            Console.WriteLine("nam viet");
+            Console.WriteLine("nam viet");
         }
     }
 }
