@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("master");
             Console.WriteLine("nam viet 2");
             Console.WriteLine("nam viet 3");
             Console.WriteLine("nam viet 3");
