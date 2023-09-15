@@ -15,6 +15,7 @@
             Console.WriteLine("Viet test merge add-new-3 into master");
             Console.WriteLine("test commit 1");
             Console.WriteLine("test commit 2");
+            Console.WriteLine("test commit 3");
         }
     }
 }
