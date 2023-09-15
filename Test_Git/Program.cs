@@ -16,6 +16,7 @@
             Console.WriteLine("test commit 1");
             Console.WriteLine("test commit 2");
             Console.WriteLine("test commit 3");
+            Console.WriteLine("test commit 4");
         }
     }
 }
