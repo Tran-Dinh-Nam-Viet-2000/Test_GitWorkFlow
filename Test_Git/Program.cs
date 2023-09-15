@@ -12,6 +12,7 @@
             Console.WriteLine("nam viet 3");
             Console.WriteLine("nam viet 3");
             Console.WriteLine("Viet update master");
+            Console.WriteLine("Viet test merge add-new-3 into master");
         }
     }
 }
