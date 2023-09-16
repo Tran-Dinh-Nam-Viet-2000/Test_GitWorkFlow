@@ -20,6 +20,7 @@
             //Console.WriteLine("test commit 5");
             //Console.WriteLine("test commit 6");
             Console.WriteLine("test merge new code");
+            Console.WriteLine("test git pull");
         }
     }
 }
