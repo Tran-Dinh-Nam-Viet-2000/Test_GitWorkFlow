@@ -5,20 +5,21 @@
         static void Main(string[] args)
         {
             Console.WriteLine("master");
-            Console.WriteLine("nam viet 2");
-            Console.WriteLine("nam viet 3");
-            Console.WriteLine("nam viet 3");
-            Console.WriteLine("nam viet 3");
-            Console.WriteLine("nam viet 3");
-            Console.WriteLine("nam viet 3");
-            Console.WriteLine("Viet update master");
-            Console.WriteLine("Viet test merge add-new-3 into master");
-            Console.WriteLine("test commit 1");
-            Console.WriteLine("test commit 2");
-            Console.WriteLine("test commit 3");
-            Console.WriteLine("test commit 4");
-            Console.WriteLine("test commit 5");
-            Console.WriteLine("test commit 6");
+            //Console.WriteLine("nam viet 2");
+            //Console.WriteLine("nam viet 3");
+            //Console.WriteLine("nam viet 3");
+            //Console.WriteLine("nam viet 3");
+            //Console.WriteLine("nam viet 3");
+            //Console.WriteLine("nam viet 3");
+            //Console.WriteLine("Viet update master");
+            //Console.WriteLine("Viet test merge add-new-3 into master");
+            //Console.WriteLine("test commit 1");
+            //Console.WriteLine("test commit 2");
+            //Console.WriteLine("test commit 3");
+            //Console.WriteLine("test commit 4");
+            //Console.WriteLine("test commit 5");
+            //Console.WriteLine("test commit 6");
+            Console.WriteLine("test merge new code");
         }
     }
 }
