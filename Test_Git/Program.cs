@@ -21,6 +21,7 @@
             //Console.WriteLine("test commit 6");
             Console.WriteLine("test merge new code");
             Console.WriteLine("test git pull");
+            Console.WriteLine("test source tree");
         }
     }
 }
