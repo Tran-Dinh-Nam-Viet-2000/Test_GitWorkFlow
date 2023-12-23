@@ -23,6 +23,7 @@
             Console.WriteLine("test git pull");
             Console.WriteLine("test source tree");
             Console.WriteLine("test source tree new");
+            Console.WriteLine("test source tree new 1");
         }
     }
 }
