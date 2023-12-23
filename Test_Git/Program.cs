@@ -22,6 +22,7 @@
             Console.WriteLine("test merge new code");
             Console.WriteLine("test git pull");
             Console.WriteLine("test source tree");
+            Console.WriteLine("test source tree new");
         }
     }
 }
